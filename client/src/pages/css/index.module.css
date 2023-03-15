@@ -1,0 +1,47 @@
+/* CSS cho các mục trong form */
+.registrationformcontainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        box-sizing:border-box;
+        margin-left: 34%;
+        margin-top: 9%;
+        padding: 0;
+        font-family:'Poppins', sans-serif;
+        height: 90vh;
+        background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        max-width: 600px;
+        max-height: 600px;
+        width: 100%;
+        border-radius: 5px;
+};
+
+.titleform {
+        font-size: 14px;
+        font-weight: 500;
+        margin-bottom: 15px;
+        text-align: center;
+};
+
+.signupform .forminputs{
+        display:flex;
+        flex-wrap: wrap;
+}
+
+.inputemail {
+        width: 510px;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;  
+};
+
+
+
+
+
+
+

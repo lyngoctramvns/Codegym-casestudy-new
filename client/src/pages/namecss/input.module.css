@@ -1,0 +1,19 @@
+.loginnamebox {
+    width: 240px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;  
+}
+.firstnamediv {
+    max-width: 250px;
+}
+.lastnamediv {
+    max-width: 250px;
+    margin-left: 20px;
+}
+.fullnamediv {
+    display: inline-flex;
+}

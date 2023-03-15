@@ -1,0 +1,19 @@
+/* CSS cho các mục trong form */
+.description {
+    width: 510px;
+    height: 100px;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+}
+
+.descriptiondiv {
+    margin-top: 6px;
+}
+.error {
+    color: red; 
+    font-size: 14;  
+};
